@@ -1,5 +1,7 @@
 package com.dio.santander.bankline.api.model;
 
-public class MonvimentacaoTipo {
+public enum MonvimentacaoTipo {
+	RECEITA,
+	DESPESA
 
 }
