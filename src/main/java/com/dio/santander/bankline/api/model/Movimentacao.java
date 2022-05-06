@@ -24,6 +24,9 @@ public class Movimentacao {
 	
 	@Enumerated(EnumType.STRING)
 	private MonvimentacaoTipo tipo;
+	@Column(name = "id_conta")
+	private Integer idConta;
+	
 	
 	public Integer getId() {
 		return id;
