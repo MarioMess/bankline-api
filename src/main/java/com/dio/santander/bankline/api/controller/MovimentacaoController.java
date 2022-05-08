@@ -11,7 +11,9 @@ import com.dio.santander.bankline.api.dto.MovimentacaoDto;
 import com.dio.santander.bankline.api.model.Movimentacao;
 import com.dio.santander.bankline.api.repository.MovimentacaoRepository;
 import com.dio.santander.bankline.api.service.MovimentacaoService;
+import io.swagger.v3.oas.annotations.tags.Tag;
 
+@Tag(name = "Movimentacoes")
 @RestController
 @RequestMapping("/movimentacoes")
 public class MovimentacaoController {
