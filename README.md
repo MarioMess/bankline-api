@@ -44,7 +44,7 @@ uim:briefcase https://github.com/MarioMess/banklineandroid.git
 
 <p align="left">
 
-<img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.html?size=128&color=currentColor" alt="Android Studio" width="40" height="40"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbr.atsit.in%2Fwp-content%2Fuploads%2F2021%2F05%2Fbaixe-a-versao-mais-recente-do-android-studio-para-pc-instalador-offline.jpg&imgrefurl=https%3A%2F%2Fbr.atsit.in%2Farchives%2F42865&tbnid=ofRrBjpJpv1XRM&vet=12ahUKEwjOuaOm8-n3AhUdMrkGHUAqBCcQMygaegUIARDzAQ..i&docid=2LI9fYobMvdcIM&w=500&h=281&q=android%20studio&ved=2ahUKEwjOuaOm8-n3AhUdMrkGHUAqBCcQMygaegUIARDzAQ?size=128&color=currentColor" alt="Android Studio" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg?size=128&color=currentColor" alt="Android" width="40" height="40"/>
 
